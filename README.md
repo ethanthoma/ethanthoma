@@ -27,6 +27,3 @@ I mainly focus on ML and ML related topics. However, I do enjoy coding and learn
 - **Loose Leaf**: A small component library for a TUI library called teashop. Written in Gleam. [View Repository](https://github.com/ethanthoma/loose_leaf)
 - **ZigMat**: A very WIP zig library for matrix operations. Fairly optimized for matrix multiplication. [View Repository](https://github.com/ethanthoma/zigmat)
 - **OpenAI Embeddings Script**: A concurrent Python script that loads data from BigQuery and embeds the text. [View Repository](https://github.com/ethanthoma/text-embeddings)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.wallhere.com%2Fphoto%2FLinux-Nixos-operating-system-minimalism-2175185.jpg&f=1&nofb=1&ipt=9b8d698cdfe651a8e896101768b340b4eea65b949537dc77cda28a3311ae1eb6&ipo=images');]{x0000}$}
