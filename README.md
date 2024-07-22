@@ -18,12 +18,3 @@ I am most interested in natural language processing (NLP). Specifically,
 - knowledge representation from text.
 
 At my lab, I study applications of LLMs and generating new architectures for NLP problems. 
-
-## 🔭 Side Explorations
-
-I mainly focus on ML and ML related topics. However, I do enjoy coding and learning new stuff:
-
-- **Personal Website**: My personal website/blog. I learnt how to use Ocaml and a bit of Turso. [View Repository](https://github.com/ethanthoma/ocaml-webserver)
-- **Loose Leaf**: A small component library for a TUI library called teashop. Written in Gleam. [View Repository](https://github.com/ethanthoma/loose_leaf)
-- **ZigMat**: A very WIP zig library for matrix operations. Fairly optimized for matrix multiplication. [View Repository](https://github.com/ethanthoma/zigmat)
-- **OpenAI Embeddings Script**: A concurrent Python script that loads data from BigQuery and embeds the text. [View Repository](https://github.com/ethanthoma/text-embeddings)
