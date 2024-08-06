@@ -1,20 +1,15 @@
-# Hi there, I'm Ethan Thoma 👋
+# Ethan Thoma 
 
-I am a graduate student to the Master's in Computer Science program at UBC. I am currently working as a Graduate Research Assistant under Dr. Gema Rodriguez-Perez in machine learning (LM).
-
-Feel free to explore my repositories to see what I've been working on! Most of my research work will be private until published.
-
-## 🌐 Connect with Me
+Graduate student in Computer Science program at UBC. Reach me here:
 
 - LinkedIn: [Ethan Thoma](https://www.linkedin.com/in/ethanthoma/)
-- Personal Website: [www.ethanthoma.com](https://www.ethanthoma.com/)
 - Twitter: [Ethan Thoma](https://twitter.com/EthanBThoma)
 
-## 🔍 Current Interests
+My personal website is [www.ethanthoma.com](https://www.ethanthoma.com/), where I sometimes blog.
 
-I am most interested in natural language processing (NLP). Specifically,
-- developing new architectures for language models,
-- variations of attention mechanisms, and
-- knowledge representation from text.
+I currently research under the supervision of Dr. Gema Rodriguez-Perez, where I focus on machine learning, natural language processing, and reinforcement learning.
 
-At my lab, I study applications of LLMs and generating new architectures for NLP problems. 
+Feel free to explore my repositories to see what I've been working on.
+I have a lot of random projects where I explore things, see my pinned repos below.
+
+If you have interest in what I am doing or have research you think I would be interested in, reach out.
